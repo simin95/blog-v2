@@ -1,0 +1,1 @@
+新建 vue-cli 3.0 的脚手架工程似乎遇到了依赖装不上的问题，使用了 `npm clean cache --force` 来解决

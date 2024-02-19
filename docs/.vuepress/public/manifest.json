@@ -1,0 +1,15 @@
+{
+  "name": "点赞狂魔的个人博客",
+  "short_name": "Blog",
+  "icons": [
+    {
+      "src": "/icons/myBook.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#7fffaa",
+  "theme_color": "#3eaf7c"
+}
